@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berend Vrakkings Blog</title>
+    <link>https://berendvrakking.com/</link>
+    <description>Recent content on Berend Vrakkings Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 22:32:14 +0200</lastBuildDate><atom:link href="https://berendvrakking.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://berendvrakking.com/posts/mypost/</link>
+      <pubDate>Mon, 27 Mar 2023 22:32:14 +0200</pubDate>
+      
+      <guid>https://berendvrakking.com/posts/mypost/</guid>
+      <description>SELECT * FROM analytics ORDER BY 1; </description>
+    </item>
+    
+  </channel>
+</rss>
