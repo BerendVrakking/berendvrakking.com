@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>value_2 on Berend Vrakkings Blog</title>
+    <link>https://berendvrakking.com/categories/value_2/</link>
+    <description>Recent content in value_2 on Berend Vrakkings Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 22:32:14 +0200</lastBuildDate><atom:link href="https://berendvrakking.com/categories/value_2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL - Quick introduction and use cases</title>
+      <link>https://berendvrakking.com/posts/blog1/</link>
+      <pubDate>Mon, 27 Mar 2023 22:32:14 +0200</pubDate>
+      
+      <guid>https://berendvrakking.com/posts/blog1/</guid>
+      <description>Title of my first blog Hi
+What is SQL? SQL, or Structured Query Language, is a powerful tool for managing and analysing data. As a programming language designed specifically for managing databases, SQL allows you to extract and manipulate large amounts of data quickly and efficiently. With SQL, you can write complex queries to filter, sort, and aggregate data, allowing them to identify patterns and insights that might not be immediately apparent.</description>
+    </item>
+    
+  </channel>
+</rss>

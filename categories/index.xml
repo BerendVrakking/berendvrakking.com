@@ -5,6 +5,25 @@
     <link>https://berendvrakking.com/categories/</link>
     <description>Recent content in Categories on Berend Vrakkings Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://berendvrakking.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 22:32:14 +0200</lastBuildDate><atom:link href="https://berendvrakking.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>value_1</title>
+      <link>https://berendvrakking.com/categories/value_1/</link>
+      <pubDate>Mon, 27 Mar 2023 22:32:14 +0200</pubDate>
+      
+      <guid>https://berendvrakking.com/categories/value_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value_2</title>
+      <link>https://berendvrakking.com/categories/value_2/</link>
+      <pubDate>Mon, 27 Mar 2023 22:32:14 +0200</pubDate>
+      
+      <guid>https://berendvrakking.com/categories/value_2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
